@@ -1,4 +1,4 @@
-# Animation Track Cleaner
+# Unused Bone Track Remover
 
 A Godot editor plugin that removes animation tracks referencing bones that no longer exist in the target `Skeleton3D`.
 
